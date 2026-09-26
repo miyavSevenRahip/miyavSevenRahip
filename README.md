@@ -1,17 +1,13 @@
-# Hi, I'm Emir 👋
+<div align="center">
 
-Welcome to my GitHub profile!
-<!--
-**miyavSevenRahip/miyavSevenRahip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./header.svg" alt="Header">
 
-Here are some ideas to get you started:
+<img src="./about.svg" alt="About">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./skills.svg" alt="Skills">
+
+<img src="./gh-stats.svg" alt="GitHub Stats">
+
+<img src="./footer.svg" alt="Footer">
+
+</div>
